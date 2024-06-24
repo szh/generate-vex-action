@@ -1,4 +1,5 @@
-[![GitHub](https://img.shields.io/github/license/kubescape/generate-vex-action)](https://github.com/kubescape/generate-vex-action/blob/master/LICENSE)
+[![Self test](https://github.com/kubescape/generate-vex-action/actions/workflows/self-test.yml/badge.svg)](https://github.com/kubescape/generate-vex-action/actions/workflows/self-test.yml)
+[![GitHub](https://img.shields.io/github/license/kubescape/generate-vex-action)](https://github.com/kubescape/generate-vex-action/blob/main/LICENSE)
 [![Slack](https://img.shields.io/badge/slack-kubescape-blueviolet?logo=slack)](https://cloud-native.slack.com/archives/C04EY3ZF9GE)
 
 # Generate VEX with Kubescape GitHub Action
